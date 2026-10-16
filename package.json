@@ -19,8 +19,9 @@
   },
   "homepage": "https://github.com/MrNerveux/TypeScript-Playground#readme",
   "devDependencies": {
-    "@types/node": "^26.6.4",
+    "@types/node": "^26.6.5",
+    "ts-node": "^10.9.2",
     "tsx": "^4.23.15",
-    "typescript": "^7.0.2"
+    "typescript": "^5.9.3"
   }
 }
